@@ -2,7 +2,7 @@
 
 ### 2018年9月18日更新
 
-上传完整的pdf版本的答案，链接为—— [complete answer'](./complete answer/readme.md "点击前往")
+上传完整的pdf版本的答案，链接为——[complete answer](./complete%20answer/readme.md "点击前往")。
 
 ### repository说明
 
